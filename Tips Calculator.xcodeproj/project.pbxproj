@@ -15,6 +15,7 @@
 		D5D2EF141C2C9C4C0024C831 /* Tips_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D2EF131C2C9C4C0024C831 /* Tips_CalculatorTests.swift */; };
 		D5D2EF1F1C2C9C4C0024C831 /* Tips_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D2EF1E1C2C9C4C0024C831 /* Tips_CalculatorUITests.swift */; };
 		D5D2EF331C2CCEF90024C831 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D2EF321C2CCEF90024C831 /* TableViewController.swift */; };
+		D5E04AD61C2D100A00A22DD7 /* Tips_calculator.gif in Resources */ = {isa = PBXBuildFile; fileRef = D5E04AD51C2D100900A22DD7 /* Tips_calculator.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D5D2EF1E1C2C9C4C0024C831 /* Tips_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tips_CalculatorUITests.swift; sourceTree = "<group>"; };
 		D5D2EF201C2C9C4C0024C831 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5D2EF321C2CCEF90024C831 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = ../TableViewController.swift; sourceTree = "<group>"; };
+		D5E04AD51C2D100900A22DD7 /* Tips_calculator.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Tips_calculator.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		D5D2EEFD1C2C9C4C0024C831 /* Tips Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				D5E04AD51C2D100900A22DD7 /* Tips_calculator.gif */,
 				D5D2EF321C2CCEF90024C831 /* TableViewController.swift */,
 				D5D2EEFE1C2C9C4C0024C831 /* AppDelegate.swift */,
 				D5D2EF001C2C9C4C0024C831 /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D5E04AD61C2D100A00A22DD7 /* Tips_calculator.gif in Resources */,
 				D5D2EF091C2C9C4C0024C831 /* LaunchScreen.storyboard in Resources */,
 				D5D2EF061C2C9C4C0024C831 /* Assets.xcassets in Resources */,
 				D5D2EF041C2C9C4C0024C831 /* Main.storyboard in Resources */,
