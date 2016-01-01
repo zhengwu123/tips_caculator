@@ -96,7 +96,7 @@ class ViewController: UIViewController ,UITextFieldDelegate{
                 self.totalLabel.text = String(format: currencysign! + " : %.2f", total1)
                 self.Label2.text = String(format: "Shared by two people : %.2f each", total1/2)
                 self.label3.text = String(format: "Shared by three people : %.2f each", total1/3)
-                self.label4.text = String(format: "Shared by four people, : %.2f each", total1/4)
+                self.label4.text = String(format: "Shared by four people : %.2f each", total1/4)
                 self.label5.text = String(format: "Shared by five people : %.2f each", total1/5)
                 self.label6.text = String(format: "Shared by six people : %.2f each", total1/6)
                 }
